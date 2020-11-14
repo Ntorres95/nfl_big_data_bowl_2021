@@ -33,7 +33,13 @@ Is there anything about a player – for example, their height, weight, experien
 
 ## Goals:
 
-Our goal is to employ machine learning techniques to help us predict the best defensive schemes against drop-back plays. 
+Our goal is to employ machine learning techniques to help us predict the best defensive schemes against drop-back plays.
+
+### What are we looking for:
+
+Was the drop-back play succesful? (True/False)
+
+
 
 ## Methods:
 
