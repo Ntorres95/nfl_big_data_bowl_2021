@@ -33,28 +33,20 @@ Is there anything about a player – for example, their height, weight, experien
 
 ## Goals:
 
-Our goal is to employ machine learning techniques to help us predict the best defensive schemes against drop-back plays.
-
-### What are we looking for:
-
-Was the drop-back play succesful? (True/False)
-
-
+Our goal is to employ machine learning techniques to help us predict the outcome of a drop back play based on things like defensive formation, players in the box, yardline number, play direction, among other things.
 
 ## Methods:
 
-The tools used inlude:
+The tools we will use inlude Pandas, Numpy, Os, Seaborn, Sklearn, Matplotlib, Jupyter Notebook. Additionally we will do a Logistic Regression, , and to determine which model best predicts the outcome of a drop back play based on a list of features.
 
-Pandas
+More specifically, we will be using Sklearn's Logistic Regression, , and . Classifiers will consists of categorical columns that indicate whether a play was complete (C), intercepted (IN), incomplete (I) or the quarter back was sacked (S).
 
-Numpy
+## Logistic Regression:
 
-Os
+Using SKLearns Logisitc Regression we ran the model with a variety of features and classifiers.
 
-Seaborn
+### First Logistic Regression
 
-Sklearn
-
-Matplotlib
+The accuracy for our first attempt 
 
 ## Conclusions:
