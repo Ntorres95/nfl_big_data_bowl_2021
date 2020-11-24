@@ -46,4 +46,4 @@ More specifically, we will be using Sklearn's Logistic Regression and Random For
 
 A breakdown of the project can be found on Tableau. The link is below.
 
-https://public.tableau.com/profile/noe6045#!/vizhome/NFL_Big_Data_Bowl/Story1
+https://public.tableau.com/views/NFL_Big_Data_Bowl/Story1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link
