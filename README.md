@@ -39,14 +39,11 @@ Our goal is to employ machine learning techniques to help us predict the outcome
 
 The tools we will use inlude Pandas, Numpy, Os, Seaborn, Sklearn, Matplotlib, Jupyter Notebook. Additionally we will do a Logistic Regression, , and to determine which model best predicts the outcome of a drop back play based on a list of features.
 
-More specifically, we will be using Sklearn's Logistic Regression, , and . Classifiers will consists of categorical columns that indicate whether a play was complete (C), intercepted (IN), incomplete (I) or the quarter back was sacked (S).
+More specifically, we will be using Sklearn's Logistic Regression and Random Forest. Classifiers will consists of categorical columns that indicate whether a play was complete (C), intercepted (IN), incomplete (I) or the quarter back was sacked (S).
 
-## Logistic Regression:
 
-Using SKLearns Logisitc Regression we ran the model with a variety of features and classifiers.
+## Overview:
 
-### First Logistic Regression
+A breakdown of the project can be found on Tableau. The link is below.
 
-The accuracy for our first attempt 
-
-## Conclusions:
+https://public.tableau.com/profile/noe6045#!/vizhome/NFL_Big_Data_Bowl/Story1
